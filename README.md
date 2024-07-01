@@ -1,5 +1,5 @@
-# Análisis de Llamadas al 137 Casos de Violencia Sexual-2023
-Este informe analiza los datos recopilados de las llamadas recibidas por el número de emergencia 137 relacionados con denuncias de violencia sexual. 
+# 📊 Análisis de Llamadas al 137 Casos de Violencia Sexual-2023
+Este dashboard realizado en Power BI analiza los datos recopilados de las llamadas recibidas por el número de emergencia 137 relacionados con denuncias de violencia sexual. 
 
 A partir de la evidencia obtenida, se llega a las siguientes conclusiones:
 - Edad de las Víctimas: Se observa que las víctimas que realizan denuncias a través de redes sociales tienen, en promedio, 12 años. Este dato es alarmante, destaca la vulnerabilidad de los menores evidenciando la necesidad de implementar medidas de protección y prevención.
